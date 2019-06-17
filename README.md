@@ -4,7 +4,7 @@ Visual Studio Code Theme for Quarkus.
 Based on the color theme of https://quarkus.io/
 
 <p align="center">
-  <img alt="preview" src="resources/logo.png" width="80%">
+  <img alt="preview" src="resources/themescreenshot.png" width="50%" height="50%">
 </p>
 
 ## Installation
